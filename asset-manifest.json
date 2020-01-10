@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MarkDown/static/css/main.19779289.chunk.css",
+    "main.js": "/MarkDown/static/js/main.e8a8b4b4.chunk.js",
+    "main.js.map": "/MarkDown/static/js/main.e8a8b4b4.chunk.js.map",
+    "runtime-main.js": "/MarkDown/static/js/runtime-main.cfb0d688.js",
+    "runtime-main.js.map": "/MarkDown/static/js/runtime-main.cfb0d688.js.map",
+    "static/js/2.41752b64.chunk.js": "/MarkDown/static/js/2.41752b64.chunk.js",
+    "static/js/2.41752b64.chunk.js.map": "/MarkDown/static/js/2.41752b64.chunk.js.map",
+    "index.html": "/MarkDown/index.html",
+    "precache-manifest.0b77a1ad47f9cbd58f2e3bc5700dff88.js": "/MarkDown/precache-manifest.0b77a1ad47f9cbd58f2e3bc5700dff88.js",
+    "service-worker.js": "/MarkDown/service-worker.js",
+    "static/css/main.19779289.chunk.css.map": "/MarkDown/static/css/main.19779289.chunk.css.map",
+    "static/js/2.41752b64.chunk.js.LICENSE": "/MarkDown/static/js/2.41752b64.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfb0d688.js",
+    "static/js/2.41752b64.chunk.js",
+    "static/css/main.19779289.chunk.css",
+    "static/js/main.e8a8b4b4.chunk.js"
+  ]
+}
